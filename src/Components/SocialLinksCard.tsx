@@ -4,7 +4,7 @@ import SocialsButton from "./SocialsButton";
 
 const SocialLinksCard = () => {
   return (
-    <div className=" w-full rounded-md flex flex-col max-w-[384px]">
+    <div className=" bg-DarkGray w-full rounded-md flex flex-col max-w-[384px]">
       <ProfilePic />
       <CardHeading
         name="Jessica Randall"
