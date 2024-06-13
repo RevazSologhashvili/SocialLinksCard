@@ -1,4 +1,3 @@
-import React from "react";
 import ProfilePic from "./ProfilePic";
 import CardHeading from "./CardHeading";
 import SocialsButton from "./SocialsButton";

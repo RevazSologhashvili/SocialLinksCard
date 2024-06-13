@@ -1,5 +1,3 @@
-import React from "react";
-
 interface HeadingProps {
   name: string;
   location: string;
